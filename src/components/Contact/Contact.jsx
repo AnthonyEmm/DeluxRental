@@ -35,7 +35,7 @@ const Contact = () => {
                 className="inline-block font-semibold py-2 px-6 bg-primary font-serif
               rounded-full tracking-wider uppercase hover:bg-primary/80 duration-300"
               >
-                Contact
+                Contact Us
               </button>
             </div>
           </div>
