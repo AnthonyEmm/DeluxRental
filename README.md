@@ -143,7 +143,7 @@ DeluxRental uses the following dependencies:
 
 The versions of these dependencies are specified in the `package.json` file.
 
-## Create an environment variable file
+## Creating environment variable file
 
 In the project root and add your API key from EmailJS. This will ensure emails are sent successfully from the contact form:
 
