@@ -501,17 +501,20 @@ const Cars = () => {
             </div>
           ))}
         </div>
-        {CarData.length > 6 && (
-          <div className="grid place-content-center mt-8 font-semibold font-serif">
-            <button
-              onClick={toggleShowAll}
-              className="button-outline px-4 py-2"
-            >
-              {showAll ? "GET STARTED" : "Show More"}
-            </button>
-          </div>
-        )}
+        <Link to="#contact">
+          {CarData.length > 6 && (
+            <div className="grid place-content-center mt-8 font-semibold font-serif">
+              <button
+                onClick={toggleShowAll}
+                className="button-outline px-4 py-2"
+              >
+                {showAll ? "GET STARTED" : "Show More"}
+              </button>
+            </div>
+          )}
+        </Link>
       </div>
+
       <Modal isOpen={isModalOpen} onClose={closeModal} car={selectedCar} />
     </section>
   );

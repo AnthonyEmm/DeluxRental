@@ -15,7 +15,7 @@ const Contact = () => {
   return (
     <section id="contact" className="contact">
       <div data-aos="zoom-in" className="dark:bg-black dark:text-white py-14">
-        <div className="container">
+        <div className="container min-h-[50%]">
           <div
             className="grid grid-cols-1 sm:grid-cols-3
         gap-6 bg-gray-800 py-8 px-6 rounded-lg"
