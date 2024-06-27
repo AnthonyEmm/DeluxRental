@@ -4,6 +4,7 @@ import { FaMobileScreenButton } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import {
   BsFacebook,
+  BsGithub,
   BsInstagram,
   BsLinkedin,
   BsTwitterX,
@@ -71,6 +72,14 @@ const Footer = () => {
               </div>
               {/* Social Media Links */}
               <div className="flex items-center gap-2">
+                <Link
+                  to="https://github.com/AnthonyEmm/DeluxRental"
+                  target="_blank"
+                  className="dark:text-white text-dark hover:text-primary 
+                   dark:hover:text-primary duration-300"
+                >
+                  <BsGithub className="text-2xl" />
+                </Link>
                 <Link
                   to="https://x.com/"
                   target="_blank"
