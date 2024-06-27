@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone `https://github.com/your-username/DeluxRental.git`
+   git clone `[https://github.com/AnthonyEmm/DeluxRental.git]`
    cd DeluxRental
    ```
 2. Install the dependencies:
