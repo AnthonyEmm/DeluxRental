@@ -194,6 +194,4 @@ DeluxRental/
 - README.md: The documentation file you are currently reading.
 - vite.config.js: Configuration file for Vite.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
