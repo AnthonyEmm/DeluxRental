@@ -147,7 +147,7 @@ The versions of these dependencies are specified in the `package.json` file.
 
 ## Creating environment variable file
 
-In the project root and add your API key from EmailJS. This will ensure emails are sent successfully from the contact form:
+In the project root add your API key from EmailJS. This will ensure emails are sent successfully from the contact form:
 
 ```
 VITE_KEY_SERVICE_ID="service_key"
