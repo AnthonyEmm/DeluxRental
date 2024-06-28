@@ -38,7 +38,7 @@ const Hero = ({ theme }) => {
             </p>
             <Link smooth to="#contact">
               <button
-                data-aos="fade-in"
+                data-aos="fade-down"
                 data-aos-delay="1500"
                 className="btn bg-primary text-black px-6 py-3 mt-6
                 rounded-full hover:bg-primary/80 duration-300 

@@ -140,6 +140,8 @@ DeluxRental uses the following dependencies:
 - `react-router-hash-link`: Hash link functionality for React Router.
 - `react-toastify`: Notifications library for React.
 - `tailwindcss`: Utility-first CSS framework.
+- `react-slick`: RIt is a carousel component built with React.
+- `slick-carousel`: Library slideshow component for cycling through elements—images or slides of text.
 
 The versions of these dependencies are specified in the `package.json` file.
 
@@ -193,5 +195,3 @@ DeluxRental/
 - tailwind.config.js: Configuration file for Tailwind CSS.
 - README.md: The documentation file you are currently reading.
 - vite.config.js: Configuration file for Vite.
-
-

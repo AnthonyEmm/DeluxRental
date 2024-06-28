@@ -44,6 +44,7 @@ const CarData = [
       horsepower: "769 hp (Aventador LP 780-4 Ultimae)",
       transmission: "7-speed ISR (Independent Shifting Rod) automated manual",
       drivetrain: "All-Wheel Drive",
+      colors: ["🟡", "⚫", "🔴", "⚪"],
     },
   },
   {
@@ -57,6 +58,7 @@ const CarData = [
       horsepower: "577 hp",
       transmission: "AMG SPEEDSHIFT TCT 9-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "⚪"],
     },
   },
   {
@@ -70,6 +72,7 @@ const CarData = [
       horsepower: "612 hp",
       transmission: "8-speed dual-clutch automatic",
       drivetrain: "Rear-Wheel Drive (RWD)",
+      colors: ["⚫", "🔴", "⚪"],
     },
   },
   {
@@ -83,6 +86,7 @@ const CarData = [
       horsepower: "500 hp",
       transmission: "8-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "🔴", "⚪"],
     },
   },
   {
@@ -96,6 +100,7 @@ const CarData = [
       horsepower: "335 hp",
       transmission: "8-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚪", "⚫"],
     },
   },
   {
@@ -109,6 +114,7 @@ const CarData = [
       horsepower: "657 hp (Urus S and Urus Performante)",
       transmission: "8-speed automatic",
       drivetrain: "All-Wheel Drive (AWD)",
+      colors: ["⚪", "⚫", "🔵"],
     },
   },
   {
@@ -122,6 +128,7 @@ const CarData = [
       horsepower: "255 hp",
       transmission: "8-speed automatic",
       drivetrain: "Rear-Wheel Drive",
+      colors: ["⚫", "🟤", "⚪"],
     },
   },
   {
@@ -135,6 +142,7 @@ const CarData = [
       horsepower: "375 hp",
       transmission: "8-speed automatic",
       drivetrain: "All-Wheel Drive (AWD)",
+      colors: ["⚫", "⚪", "🔴"],
     },
   },
   {
@@ -148,6 +156,7 @@ const CarData = [
       horsepower: "402 hp",
       transmission: "1-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "🔴", "🟤", "⚪"],
     },
   },
   {
@@ -161,6 +170,7 @@ const CarData = [
       horsepower: "255 hp",
       transmission: "9-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "🟤", "⚪"],
     },
   },
   {
@@ -174,6 +184,7 @@ const CarData = [
       horsepower: "261 hp",
       transmission: "7-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "🟤", "⚪"],
     },
   },
   {
@@ -187,6 +198,7 @@ const CarData = [
       horsepower: "300 hp",
       transmission: "8-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["🔴", "⚪", "⚫"],
     },
   },
   {
@@ -200,6 +212,7 @@ const CarData = [
       horsepower: "429 hp",
       transmission: "9-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "⚪"],
     },
   },
   {
@@ -213,6 +226,7 @@ const CarData = [
       horsepower: "424 hp",
       transmission: "8-speed automatic",
       drivetrain: "Multiple drive modes including Sport and Corsa",
+      colors: ["⚫", "⚪", "🔴"],
     },
   },
   {
@@ -226,6 +240,7 @@ const CarData = [
       horsepower: "650 hp",
       transmission: "6-speed manual",
       drivetrain: "Rear-Wheel Drive",
+      colors: ["⚫", "⚪", "🔴"],
     },
   },
   {
@@ -239,6 +254,7 @@ const CarData = [
       horsepower: "751 hp",
       transmission: "single-speed automatic",
       drivetrain: "All-Wheel Drive",
+      colors: ["⚫", "🟤", "⚪", "🔴"],
     },
   },
   {
@@ -252,6 +268,7 @@ const CarData = [
       horsepower: "603 hp",
       transmission: "9-speed automatic",
       drivetrain: "AMG all-wheel drive (AWD)",
+      colors: ["⚫", "⚪", "🔴"],
     },
   },
   {
@@ -265,6 +282,7 @@ const CarData = [
       horsepower: "710 hp",
       transmission: "7-speed dual-clutch automatic",
       drivetrain: "Rear-wheel drive (RWD)",
+      colors: ["🟡", "⚫", "🔴", "⚪"],
     },
   },
   {
@@ -278,6 +296,7 @@ const CarData = [
       horsepower: "241 hp",
       transmission: "7-speed dual-clutch automatic",
       drivetrain: "All-Wheel Drive (xDrive)",
+      colors: ["⚫", "⚪"],
     },
   },
   {
@@ -291,6 +310,7 @@ const CarData = [
       horsepower: "291 hp",
       transmission: "8-speed automatic",
       drivetrain: "Front-Wheel Drive (FWD) or optional All-Wheel Drive (AWD)",
+      colors: ["⚫", "🟤", "⚪"],
     },
   },
   {
@@ -304,6 +324,7 @@ const CarData = [
       horsepower: "221 hp",
       transmission: "8-speed AMG SPEEDSHIFT DCT dual-clutch automatic",
       drivetrain: "All-Wheel Drive (AWD)",
+      colors: ["⚫", "🟤", "⚪"],
     },
   },
   {
@@ -317,6 +338,7 @@ const CarData = [
       horsepower: "542 hp",
       transmission: "8-speed automatic",
       drivetrain: "All-wheel drive (AWD)",
+      colors: ["🟢", "⚫", "🟤", "⚪"],
     },
   },
   {
@@ -330,6 +352,7 @@ const CarData = [
       horsepower: "V8: 542 hp | W12: 626 hp",
       transmission: "8-speed dual-clutch automatic",
       drivetrain: "All-wheel drive (AWD)",
+      colors: ["🔴", "⚫", "🟤", "⚪"],
     },
   },
   {
@@ -343,6 +366,7 @@ const CarData = [
       horsepower: "409 hp",
       transmission: "10-speed automatic",
       drivetrain: "4WD (Four-Wheel Drive)",
+      colors: ["⚫", "⚪"],
     },
   },
   {
@@ -356,6 +380,7 @@ const CarData = [
       horsepower: "362 hp + EQ Boost power",
       transmission: "9-speed automatic",
       drivetrain: "4MATIC+ all-wheel drive (AWD)",
+      colors: ["🔴", "⚫", "🔵", "⚪"],
     },
   },
   {
@@ -369,6 +394,7 @@ const CarData = [
       horsepower: "644 hp",
       transmission: "8-speed automatic transmission",
       drivetrain: "All-wheel drive (AWD)",
+      colors: ["🔴", "⚫", "⚪"],
     },
   },
   {
@@ -382,6 +408,7 @@ const CarData = [
       horsepower: "375 hp",
       transmission: "9-speed automatic transmission",
       drivetrain: "All-wheel drive (AWD)",
+      colors: ["🔴", "⚫", "⚪", "🔵"],
     },
   },
   {
@@ -395,6 +422,7 @@ const CarData = [
       horsepower: "715 hp",
       transmission: "8-speed dual-clutch automatic",
       drivetrain: "All-wheel drive (AWD) with rear-biased torque distribution",
+      colors: ["⚫", "🟡", "🔴", "⚪"],
     },
   },
   {
@@ -408,6 +436,7 @@ const CarData = [
       horsepower: "503 hp",
       transmission: "8-speed automatic",
       drivetrain: "Rear-wheel drive (RWD)",
+      colors: ["🔴", "⚫", "🟡", "⚪"],
     },
   },
   {
@@ -421,6 +450,7 @@ const CarData = [
       horsepower: "402 hp",
       transmission: "Single-speed automatic",
       drivetrain: "Dual-motor all-wheel drive (AWD)",
+      colors: ["🔵", "🔴", "⚫", "⚪"],
     },
   },
 ];
@@ -501,7 +531,7 @@ const Cars = () => {
             </div>
           ))}
         </div>
-        <Link to="#contact">
+        <Link smooth to="#footer">
           {CarData.length > 6 && (
             <div className="grid place-content-center mt-8 font-semibold font-serif">
               <button

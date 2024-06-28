@@ -64,7 +64,8 @@ const ResponsiveMenu = ({ showMenu, setShowMenu }) => {
       {/* Footer Items */}
       <div>
         <h1 className="font-serif font-semibold">
-          &copy;{new Date().getFullYear()} DeluxRental
+          &copy;{new Date().getFullYear()} Delux
+          <strong className="text-yellow-600">Rental</strong>
         </h1>
       </div>
     </div>

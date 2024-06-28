@@ -9,6 +9,7 @@ import AppStore from "./components/AppStore/AppStore";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import { BrowserRouter } from "react-router-dom";
+import CarsCarousel from "./components/CarsCarousel/CarsCarousel";
 
 // AOS Dependencies
 import AOS from "aos";
@@ -52,6 +53,7 @@ const App = () => {
           <Services />
           <Cars />
           <Testimonial />
+          <CarsCarousel />
           <AppStore />
           <Contact />
           <Footer />
