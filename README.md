@@ -188,7 +188,7 @@ DeluxRental/
   - components/: Contains reusable React components.
   - App.jsx: The root component of the application.
   - main.jsx: The entry point of the application.
-  - .env: The environment variable for the application (visit [emailjs]: https://www.emailjs.com/pricing/ to register and configure). You may follow the guide here by Chaoo Charles: https://www.youtube.com/watch?v=bMq2riFCF90
+  - .env: The environment variable for the application (visit Emailjs: https://www.emailjs.com/pricing/ to register and configure). You may follow the guide here by Chaoo Charles: https://www.youtube.com/watch?v=bMq2riFCF90
 - .gitignore: Specifies which files and directories to ignore in the repository.
 - package.json: Lists the project dependencies and scripts.
 - postcss.config.js: Configuration file for PostCSS.
