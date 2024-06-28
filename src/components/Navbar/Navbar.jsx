@@ -20,7 +20,7 @@ export const NavLinks = [
   },
   {
     id: "3",
-    name: "Our Cars",
+    name: "Cars",
     link: "/#our-cars",
   },
   {
@@ -30,6 +30,11 @@ export const NavLinks = [
   },
   {
     id: "5",
+    name: "FAQ",
+    link: "/#faq",
+  },
+  {
+    id: "6",
     name: "ORDER",
     link: "/#contact",
   },

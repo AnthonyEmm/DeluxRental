@@ -1,14 +1,7 @@
 import React from "react";
-import { FaLocationArrow } from "react-icons/fa";
-import { FaMobileScreenButton } from "react-icons/fa6";
-import { FaGithub } from "react-icons/fa";
-import {
-  BsFacebook,
-  BsGithub,
-  BsInstagram,
-  BsLinkedin,
-  BsTwitterX,
-} from "react-icons/bs";
+import { RiCustomerService2Line } from "react-icons/ri";
+import { BsFacebook, BsGithub, BsInstagram, BsTwitterX } from "react-icons/bs";
+import { GrMapLocation } from "react-icons/gr";
 import { SiTiktok } from "react-icons/si";
 import { HashLink as Link } from "react-router-hash-link";
 
@@ -37,7 +30,7 @@ const FooterLinks = [
 
 const Footer = () => {
   return (
-    <section id="#footer" className="footer">
+    <section id="footer" className="footer">
       <div className="bg-gray-100 dark:bg-dark mt-14 rounded-t-3xl">
         <div className="container mx-auto px-4 py-8 md:py-12">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -64,11 +57,11 @@ const Footer = () => {
             <div className="md:col-span-1 mb-4">
               <div className="grid grid-cols-1 gap-3">
                 <div className="flex items-center gap-3 font-serif font-medium">
-                  <FaLocationArrow />
+                  <GrMapLocation color="#3AA6B9" size={25} />
                   <p>Bavaria (Bayern), Germany</p>
                 </div>
                 <div className="flex items-center gap-3 font-serif font-medium">
-                  <FaMobileScreenButton />
+                  <RiCustomerService2Line color="#3AA6B9" size={25} />
                   <p>+49 1234567890</p>
                 </div>
                 {/* Social Media Links */}
@@ -139,7 +132,7 @@ const Footer = () => {
               </div>
               <span className="flex flex-col items-center font-medium cursor-pointer gap-2">
                 <Link
-                  to="https://drive.google.com/file/d/1L2jyV1u6W5NUzvtutc0_zhG_FslnK6cQ/view?usp=sharing"
+                  to="https://drive.google.com/file/d/1X8cVOtZ9dQM7iXn5GmHtuCQ3umQRiWGc/view?usp=sharing"
                   target="_blank"
                 >
                   <div
@@ -150,7 +143,7 @@ const Footer = () => {
                   </div>
                 </Link>
                 <Link
-                  to="https://drive.google.com/file/d/19xSNTAPeHPHXQZkW9EYMt5qJEMfJ0mZ0/view?usp=sharing"
+                  to="https://drive.google.com/file/d/1GxEn2HudlWgDXyRTh776jTiQbQEjM-Vp/view?usp=sharing"
                   target="_blank"
                 >
                   <div

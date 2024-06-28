@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
 import About from "./components/About/About";
@@ -8,12 +9,12 @@ import Testimonial from "./components/Testimonial/Testimonial";
 import AppStore from "./components/AppStore/AppStore";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
-import { BrowserRouter } from "react-router-dom";
 import CarsCarousel from "./components/CarsCarousel/CarsCarousel";
 
 // AOS Dependencies
 import AOS from "aos";
 import "aos/dist/aos.css";
+import FAQ from "./components/FAQ/FAQ";
 
 const App = () => {
   //Feature for dark mode theme
@@ -56,6 +57,7 @@ const App = () => {
           <CarsCarousel />
           <AppStore />
           <Contact />
+          <FAQ />
           <Footer />
         </div>
       </BrowserRouter>

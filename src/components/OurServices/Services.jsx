@@ -2,7 +2,6 @@ import React from "react";
 import { RiCustomerService2Line } from "react-icons/ri";
 import { GiMoneyStack } from "react-icons/gi";
 import { LiaShippingFastSolid } from "react-icons/lia";
-import { Link } from "react-router-dom";
 
 const Services = () => {
   const skillsData = [
@@ -34,7 +33,10 @@ const Services = () => {
 
   return (
     <section id="services" className="services">
-      <div className="py-14 dark:bg-black dark:text-white sm:min-h-[600px] sm:grid sm:place-items-center min-h-screen">
+      <div
+        className="py-14 dark:bg-black dark:text-white sm:min-h-[600px] sm:grid 
+        sm:place-items-center min-h-screen"
+      >
         <div className="container max-w-screen-xl mt-16 mb-16">
           <div className="pb-12">
             <h1 className="text-3xl font-semibold text-center font-serif sm:text-4xl">
@@ -47,7 +49,8 @@ const Services = () => {
                 key={skill.name}
                 data-aos="flip-right"
                 data-aos-delay={skill.aosDelay}
-                className="card text-center group space-y-3 sm:space-y-6 p-4 sm:p-8 bg-dark rounded-lg hover:bg-primary/80 duration-300 text-white hover:text-black"
+                className="card text-center group space-y-3 sm:space-y-6 p-4 sm:p-8 bg-dark rounded-lg
+                hover:bg-primary/80 duration-300 text-white hover:text-black"
               >
                 <div className="grid place-items-center">{skill.icon}</div>
                 <h1 className="font-serif text-xl sm:text-2xl font-semibold">

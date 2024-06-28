@@ -1,0 +1,86 @@
+[
+  {
+    "question": "How do I make a reservation?",
+    "answer": "You can make a reservation online, by sending us a message using our online contact form, or by calling our customer service number."
+  },
+  {
+    "question": "What are the requirements to rent a car?",
+    "answer": "You must be at least 21 years old, have a valid driver's license, and have a valid credit or debit card."
+  },
+  {
+    "question": "Can I rent a car with a debit card?",
+    "answer": "Yes, but additional documentation may be required and a hold may be placed on your account."
+  },
+  {
+    "question": "Is there a security deposit to rent a car?",
+    "answer": "Yes, additional documentation will be provided prior to car rent payment."
+  },
+  {
+    "question": "Do I need insurance to rent a car?",
+    "answer": "Basic insurance is included in the rental price. Additional coverage is available for purchase."
+  },
+  {
+    "question": "What should I do if I have an accident?",
+    "answer": "Contact the us immediately and follow our instructions. Report the accident to local authorities if necessary."
+  },
+  {
+    "question": "Is there a mileage limit?",
+    "answer": "Most rentals come with unlimited mileage, but some vehicles have restrictions. Check your rental agreement for details."
+  },
+  {
+    "question": "Can I rent a car one-way?",
+    "answer": "Yes, one-way rentals are available. Additional fees may apply."
+  },
+  {
+    "question": "Are there additional fees for adding extra drivers?",
+    "answer": "Yes, there is usually a fee for adding extra drivers. They must meet the same rental requirements."
+  },
+  {
+    "question": "Can I extend my rental period?",
+    "answer": "Yes, you can extend your rental period. Contact us as soon as possible to make further arrangements."
+  },
+  {
+    "question": "What if I return the car late?",
+    "answer": "Late returns may incur additional charges. Contact us immediately if you anticipate being late."
+  },
+  {
+    "question": "Are pets allowed in the rental cars?",
+    "answer": "Pets are generally allowed, but the vehicle must be returned clean and free of pet hair. Cleaning fees may apply."
+  },
+  {
+    "question": "What fuel policy do you have?",
+    "answer": "Our rentals usually come with a full-to-full fuel policy. You need to return the car with a full tank of gas."
+  },
+  {
+    "question": "Can I rent a car for someone else?",
+    "answer": "The primary renter must be present at the time of rental. You can add other drivers to the rental agreement."
+  },
+  {
+    "question": "Do you offer child seats?",
+    "answer": "Yes, child seats are available for an additional fee. Please request one when making your reservation."
+  },
+  {
+    "question": "What happens if I get a traffic ticket?",
+    "answer": "You are responsible for any traffic tickets or fines incurred during your rental period."
+  },
+  {
+    "question": "Are there any restrictions on where I can drive the rental car?",
+    "answer": "Some restrictions may apply, especially for driving across state or country borders. Check your rental agreement."
+  },
+  {
+    "question": "Can I cancel or change my reservation?",
+    "answer": "Yes, you can cancel or change your reservation. Cancellation policies vary, so check your reservation details."
+  },
+  {
+    "question": "What types of cars are available for rent?",
+    "answer": "We offer a wide range of only luxury vehicles including SUVs, Sports cars and Sedans."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept major credit cards, debit cards, and, in some locations, cash payments."
+  },
+  {
+    "question": "What should I do if the car breaks down?",
+    "answer": "Contact our roadside assistance immediately. The number is provided in your rental agreement."
+  }
+]

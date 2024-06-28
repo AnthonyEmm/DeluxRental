@@ -35,7 +35,7 @@ import Etron from "../../assets/e-tron.png";
 const CarData = [
   {
     name: "Lamborghini Avantador ",
-    price: 80,
+    price: 1200,
     image: Avantador,
     aosDelay: "0",
     specifications: {
@@ -49,7 +49,7 @@ const CarData = [
   },
   {
     name: "Mercedes Benz G63 AMG",
-    price: 72,
+    price: 800,
     image: G63,
     aosDelay: "300",
     specifications: {
@@ -63,7 +63,7 @@ const CarData = [
   },
   {
     name: "Ferrari Roma",
-    price: 95,
+    price: 1495,
     image: Roma,
     aosDelay: "500",
     specifications: {
@@ -77,7 +77,7 @@ const CarData = [
   },
   {
     name: "Audi SQ8",
-    price: 53,
+    price: 399,
     image: SQ8,
     aosDelay: "0",
     specifications: {
@@ -91,7 +91,7 @@ const CarData = [
   },
   {
     name: "Porsche Cayenne",
-    price: 50,
+    price: 355,
     image: Cayenne,
     aosDelay: "300",
     specifications: {
@@ -105,7 +105,7 @@ const CarData = [
   },
   {
     name: "Lamborghini Urus",
-    price: 80,
+    price: 1000,
     image: Urus,
     aosDelay: "500",
     specifications: {
@@ -119,7 +119,7 @@ const CarData = [
   },
   {
     name: "BMW 3-Series",
-    price: 46,
+    price: 180,
     image: Series,
     aosDelay: "0",
     specifications: {
@@ -133,7 +133,7 @@ const CarData = [
   },
   {
     name: "BMW X6 xDrive40i",
-    price: 65,
+    price: 510,
     image: X6,
     aosDelay: "300",
     specifications: {
@@ -147,7 +147,7 @@ const CarData = [
   },
   {
     name: "Porsche Taycan",
-    price: 66,
+    price: 499,
     image: Taycan,
     aosDelay: "500",
     specifications: {
@@ -161,7 +161,7 @@ const CarData = [
   },
   {
     name: "Mercedes-Benz GLC-Class",
-    price: 45,
+    price: 400,
     image: Benz,
     aosDelay: "0",
     specifications: {
@@ -175,7 +175,7 @@ const CarData = [
   },
   {
     name: "Audi A5",
-    price: 35,
+    price: 220,
     image: Audi5,
     aosDelay: "300",
     specifications: {
@@ -189,7 +189,7 @@ const CarData = [
   },
   {
     name: "Genesis GV70",
-    price: 45,
+    price: 450,
     image: Genesis,
     aosDelay: "500",
     specifications: {
@@ -203,7 +203,7 @@ const CarData = [
   },
   {
     name: "Mercedes-Benz S-Class",
-    price: 85,
+    price: 520,
     image: SClass,
     aosDelay: "0",
     specifications: {
@@ -217,7 +217,7 @@ const CarData = [
   },
   {
     name: "Maserati Ghibli Modena",
-    price: 85,
+    price: 300,
     image: Ghibli,
     aosDelay: "500",
     specifications: {
@@ -231,7 +231,7 @@ const CarData = [
   },
   {
     name: "Chevrolet Camaro ZL1",
-    price: 65,
+    price: 440,
     image: Camaro,
     aosDelay: "300",
     specifications: {
@@ -245,7 +245,7 @@ const CarData = [
   },
   {
     name: "Maserati GranTurismo Folgore",
-    price: 90,
+    price: 549,
     image: Italian,
     aosDelay: "0",
     specifications: {
@@ -259,7 +259,7 @@ const CarData = [
   },
   {
     name: "Merceded Benz GLE 63 AMG",
-    price: 66,
+    price: 420,
     image: GLE,
     aosDelay: "300",
     specifications: {
@@ -273,7 +273,7 @@ const CarData = [
   },
   {
     name: "Ferrari F8 Turbo",
-    price: 120,
+    price: 1120,
     image: F8,
     aosDelay: "500",
     specifications: {
@@ -287,7 +287,7 @@ const CarData = [
   },
   {
     name: "BMW X1",
-    price: 75,
+    price: 175,
     image: X1,
     aosDelay: "0",
     specifications: {
@@ -301,7 +301,7 @@ const CarData = [
   },
   {
     name: "Hyundai Palisade",
-    price: 39,
+    price: 189,
     image: Hyundai,
     aosDelay: "300",
     specifications: {
@@ -315,7 +315,7 @@ const CarData = [
   },
   {
     name: "Merceded Benz GLA 45 AMG",
-    price: 69,
+    price: 549,
     image: GLA,
     aosDelay: "500",
     specifications: {
@@ -329,7 +329,7 @@ const CarData = [
   },
   {
     name: "Bentley Bentayga S",
-    price: 109,
+    price: 600,
     image: Bentayga,
     aosDelay: "0",
     specifications: {
@@ -343,7 +343,7 @@ const CarData = [
   },
   {
     name: "Bentley Continental GT",
-    price: 99,
+    price: 700,
     image: Bentley,
     aosDelay: "300",
     specifications: {
@@ -357,7 +357,7 @@ const CarData = [
   },
   {
     name: "Toyota Land Cruiser",
-    price: 65,
+    price: 4065,
     image: Cruiser,
     aosDelay: "500",
     specifications: {
@@ -371,7 +371,7 @@ const CarData = [
   },
   {
     name: "Merceded Benz GT 43 AMG",
-    price: 115,
+    price: 399,
     image: GT43,
     aosDelay: "0",
     specifications: {
@@ -385,7 +385,7 @@ const CarData = [
   },
   {
     name: "BMW XM",
-    price: 115,
+    price: 1130,
     image: XM,
     aosDelay: "300",
     specifications: {
@@ -399,7 +399,7 @@ const CarData = [
   },
   {
     name: "Mercedes Benz E-Class",
-    price: 35,
+    price: 235,
     image: EBenz,
     aosDelay: "500",
     specifications: {
@@ -413,7 +413,7 @@ const CarData = [
   },
   {
     name: "Ferrari Purosangue",
-    price: 155,
+    price: 3600,
     image: Purosangue,
     aosDelay: "0",
     specifications: {
@@ -427,7 +427,7 @@ const CarData = [
   },
   {
     name: "Aston Martin",
-    price: 145,
+    price: 1345,
     image: AM,
     aosDelay: "300",
     specifications: {
@@ -441,7 +441,7 @@ const CarData = [
   },
   {
     name: "Audi Q8 e-tron",
-    price: 125,
+    price: 680,
     image: Etron,
     aosDelay: "500",
     specifications: {
@@ -516,13 +516,12 @@ const Cars = () => {
                 </h1>
                 <div className="flex justify-between items-center text-lg font-bold font-serif">
                   <p className="text-green-700">€{data.price}/Day</p>
-                  <Link
-                    to="#our-cars"
+                  <div
                     onClick={(e) => handleDetailsClick(data, e)}
-                    className="hover:text-primary font-bold text-sm"
+                    className="hover:text-primary font-bold text-sm cursor-pointer"
                   >
                     Details
-                  </Link>
+                  </div>
                 </div>
               </div>
               <p className="text-xl font-bold font-serif absolute top-0 left-3">
@@ -531,14 +530,14 @@ const Cars = () => {
             </div>
           ))}
         </div>
-        <Link smooth to="#footer">
+        <Link to="#contact">
           {CarData.length > 6 && (
             <div className="grid place-content-center mt-8 font-semibold font-serif">
               <button
                 onClick={toggleShowAll}
                 className="button-outline px-4 py-2"
               >
-                {showAll ? "Our Location" : "Show More"}
+                {showAll ? "LEARN MORE" : "Show More"}
               </button>
             </div>
           )}
