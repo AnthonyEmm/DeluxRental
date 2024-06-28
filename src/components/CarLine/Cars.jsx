@@ -508,7 +508,7 @@ const Cars = () => {
                 onClick={toggleShowAll}
                 className="button-outline px-4 py-2"
               >
-                {showAll ? "GET STARTED" : "Show More"}
+                {showAll ? "Our Location" : "Show More"}
               </button>
             </div>
           )}
