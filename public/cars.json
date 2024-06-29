@@ -8,8 +8,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "6.5L V12",
       "horsepower": "769 hp (Aventador LP 780-4 Ultimae)",
-      "transmission": "7-speed ISR (Independent Shifting Rod) automated manual",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "7 speed ISR (Independent Shifting Rod) automated manual",
+      "drivetrain": "All Wheel Drive",
       "colors": ["🟡", "⚫", "🔴", "⚪"]
     }
   },
@@ -22,8 +22,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "4.0L V8 Biturbo",
       "horsepower": "577 hp",
-      "transmission": "AMG SPEEDSHIFT TCT 9-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "AMG SPEEDSHIFT TCT 9 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "⚪"]
     }
   },
@@ -34,10 +34,10 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "3.9L V8 twin-turbocharged",
+      "engine": "3.9L V8 twin turbocharged",
       "horsepower": "612 hp",
-      "transmission": "8-speed dual-clutch automatic",
-      "drivetrain": "Rear-Wheel Drive (RWD)",
+      "transmission": "8 speed dual clutch automatic",
+      "drivetrain": "Rear Wheel Drive (RWD)",
       "colors": ["⚫", "🔴", "⚪"]
     }
   },
@@ -50,8 +50,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "4.0L V8",
       "horsepower": "500 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "8 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "🔴", "⚪"]
     }
   },
@@ -64,8 +64,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.0L V6",
       "horsepower": "335 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "8 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚪", "⚫"]
     }
   },
@@ -76,7 +76,7 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "4.0L V8 twin-turbocharged",
+      "engine": "4.0L V8 twin turbocharged",
       "horsepower": "657 hp (Urus S and Urus Performante)",
       "transmission": "8-speed automatic",
       "drivetrain": "All-Wheel Drive (AWD)",
@@ -92,8 +92,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.0L I4",
       "horsepower": "255 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "Rear-Wheel Drive",
+      "transmission": "8 speed automatic",
+      "drivetrain": "Rear Wheel Drive",
       "colors": ["⚫", "🟤", "⚪"]
     }
   },
@@ -104,10 +104,10 @@
     "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "3.0L inline-6 turbocharged with mild hybrid technology",
+      "engine": "3.0L inline 6 turbocharged with mild hybrid technology",
       "horsepower": "375 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "All-Wheel Drive (AWD)",
+      "transmission": "8 speed automatic",
+      "drivetrain": "All Wheel Drive (AWD)",
       "colors": ["⚫", "⚪", "🔴"]
     }
   },
@@ -120,8 +120,8 @@
       "fuel": "Electric ⚡",
       "engine": "Performance Battery Plus 93.4 kWh",
       "horsepower": "402 hp",
-      "transmission": "1-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "Single speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "🔴", "🟤", "⚪"]
     }
   },
@@ -134,8 +134,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.0L I4",
       "horsepower": "255 hp",
-      "transmission": "9-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "9 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "🟤", "⚪"]
     }
   },
@@ -148,8 +148,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.0L I4",
       "horsepower": "261 hp",
-      "transmission": "7-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "7 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "🟤", "⚪"]
     }
   },
@@ -162,8 +162,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.5L I4",
       "horsepower": "300 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "8 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["🔴", "⚪", "⚫"]
     }
   },
@@ -176,8 +176,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.0L I6",
       "horsepower": "429 hp",
-      "transmission": "9-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "9 speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "⚪"]
     }
   },
@@ -185,12 +185,12 @@
     "name": "Maserati Ghibli Modena",
     "price": 300,
     "image": "/CarImages/Ghibli.png",
-    "aosDelay": "500",
+    "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.0L V6 twin-turbo",
       "horsepower": "424 hp",
-      "transmission": "8-speed automatic",
+      "transmission": "8 speed automatic",
       "drivetrain": "Multiple drive modes including Sport and Corsa",
       "colors": ["⚫", "⚪", "🔴"]
     }
@@ -199,13 +199,13 @@
     "name": "Chevrolet Camaro ZL1",
     "price": 440,
     "image": "/CarImages/Chevy_Camaro.webp",
-    "aosDelay": "300",
+    "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "6.2L V8",
       "horsepower": "650 hp",
-      "transmission": "6-speed manual",
-      "drivetrain": "Rear-Wheel Drive",
+      "transmission": "6 speed manual",
+      "drivetrain": "Rear Wheel Drive",
       "colors": ["⚫", "⚪", "🔴"]
     }
   },
@@ -216,10 +216,10 @@
     "aosDelay": "0",
     "specifications": {
       "fuel": "Electric ⚡",
-      "engine": "All-electric powertrain",
+      "engine": "Electric powertrain",
       "horsepower": "751 hp",
-      "transmission": "single-speed automatic",
-      "drivetrain": "All-Wheel Drive",
+      "transmission": "Single speed automatic",
+      "drivetrain": "All Wheel Drive",
       "colors": ["⚫", "🟤", "⚪", "🔴"]
     }
   },
@@ -232,8 +232,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "4.0-liter V8 Biturbo with EQ Boost",
       "horsepower": "603 hp",
-      "transmission": "9-speed automatic",
-      "drivetrain": "AMG all-wheel drive (AWD)",
+      "transmission": "9 speed automatic",
+      "drivetrain": "All wheel drive (AWD)",
       "colors": ["⚫", "⚪", "🔴"]
     }
   },
@@ -244,10 +244,10 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "3.9-liter twin-turbocharged V8",
+      "engine": "3.9 liter twin turbocharged V8",
       "horsepower": "710 hp",
-      "transmission": "7-speed dual-clutch automatic",
-      "drivetrain": "Rear-wheel drive (RWD)",
+      "transmission": "7 speed dual clutch automatic",
+      "drivetrain": "Rear wheel drive (RWD)",
       "colors": ["🟡", "⚫", "🔴", "⚪"]
     }
   },
@@ -260,8 +260,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.0L I4 turbocharged",
       "horsepower": "241 hp",
-      "transmission": "7-speed dual-clutch automatic",
-      "drivetrain": "All-Wheel Drive (xDrive)",
+      "transmission": "7 speed dual-clutch automatic",
+      "drivetrain": "All Wheel Drive (xDrive)",
       "colors": ["⚫", "⚪"]
     }
   },
@@ -274,8 +274,8 @@
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.8L V6",
       "horsepower": "291 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "Front-Wheel Drive (FWD) or optional All-Wheel Drive (AWD)",
+      "transmission": "8 speed automatic",
+      "drivetrain": "Front Wheel Drive (FWD) or optional All Wheel Drive (AWD)",
       "colors": ["⚫", "🟤", "⚪"]
     }
   },
@@ -286,10 +286,10 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "2.0-liter inline-4 turbocharged",
+      "engine": "2.0 liter inline 4 turbocharged",
       "horsepower": "221 hp",
-      "transmission": "8-speed AMG SPEEDSHIFT DCT dual-clutch automatic",
-      "drivetrain": "All-Wheel Drive (AWD)",
+      "transmission": "8 speed AMG SPEEDSHIFT DCT dual clutch automatic",
+      "drivetrain": "All Wheel Drive (AWD)",
       "colors": ["⚫", "🟤", "⚪"]
     }
   },
@@ -300,10 +300,10 @@
     "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "4.0-liter V8",
+      "engine": "4.0 liter V8",
       "horsepower": "542 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "All-wheel drive (AWD)",
+      "transmission": "8 speed automatic",
+      "drivetrain": "All wheel drive (AWD)",
       "colors": ["🟢", "⚫", "🟤", "⚪"]
     }
   },
@@ -314,10 +314,10 @@
     "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "4.0-liter V8 or 6.0-liter W12 Twin-turbocharged",
-      "horsepower": "V8: 542 hp | W12: 626 hp",
-      "transmission": "8-speed dual-clutch automatic",
-      "drivetrain": "All-wheel drive (AWD)",
+      "engine": "4.0 liter V8 or 6.0 liter W12 Twin turbocharged",
+      "horsepower": "V8: 542 hp or W12: 626 hp",
+      "transmission": "8 speed dual clutch automatic",
+      "drivetrain": "All wheel drive (AWD)",
       "colors": ["🔴", "⚫", "🟤", "⚪"]
     }
   },
@@ -328,9 +328,9 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "3.5L V6 twin-turbo or 4.0L V6",
+      "engine": "3.5L V6 twin turbo or 4.0L V6",
       "horsepower": "409 hp",
-      "transmission": "10-speed automatic",
+      "transmission": "10 speed automatic",
       "drivetrain": "4WD (Four-Wheel Drive)",
       "colors": ["⚫", "⚪"]
     }
@@ -342,10 +342,10 @@
     "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "3.0-liter inline-6 turbocharged",
+      "engine": "3.0 liter inline 6 turbocharged",
       "horsepower": "362 hp + EQ Boost power",
-      "transmission": "9-speed automatic",
-      "drivetrain": "4MATIC+ all-wheel drive (AWD)",
+      "transmission": "9 speed automatic",
+      "drivetrain": "4MATIC+ all wheel drive (AWD)",
       "colors": ["🔴", "⚫", "🔵", "⚪"]
     }
   },
@@ -356,10 +356,10 @@
     "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline and electric power ⛽ ⚡",
-      "engine": "4.4-liter Twin-turbocharged V8 and electric motor",
+      "engine": "4.4 liter Twin turbocharged V8 and electric motor",
       "horsepower": "644 hp",
-      "transmission": "8-speed automatic transmission",
-      "drivetrain": "All-wheel drive (AWD)",
+      "transmission": "8 speed automatic transmission",
+      "drivetrain": "All wheel drive (AWD)",
       "colors": ["🔴", "⚫", "⚪"]
     }
   },
@@ -370,10 +370,10 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "3.0L inline-6 turbo with mild hybrid system",
+      "engine": "3.0L inline 6 turbo with mild hybrid system",
       "horsepower": "375 hp",
-      "transmission": "9-speed automatic transmission",
-      "drivetrain": "All-wheel drive (AWD)",
+      "transmission": "9 speed automatic transmission",
+      "drivetrain": "All wheel drive (AWD)",
       "colors": ["🔴", "⚫", "⚪", "🔵"]
     }
   },
@@ -384,10 +384,10 @@
     "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "6.5-liter naturally aspirated V12",
+      "engine": "6.5 liter naturally aspirated V12",
       "horsepower": "715 hp",
-      "transmission": "8-speed dual-clutch automatic",
-      "drivetrain": "All-wheel drive (AWD) with rear-biased torque distribution",
+      "transmission": "8 speed dual clutch automatic",
+      "drivetrain": "All wheel drive (AWD) with rear biased torque distribution",
       "colors": ["⚫", "🟡", "🔴", "⚪"]
     }
   },
@@ -398,10 +398,10 @@
     "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
-      "engine": "4.0-liter twin-turbocharged V8",
+      "engine": "4.0 liter twin turbocharged V8",
       "horsepower": "503 hp",
-      "transmission": "8-speed automatic",
-      "drivetrain": "Rear-wheel drive (RWD)",
+      "transmission": "8 speed automatic",
+      "drivetrain": "Rear wheel drive (RWD)",
       "colors": ["🔴", "⚫", "🟡", "⚪"]
     }
   },
@@ -412,11 +412,95 @@
     "aosDelay": "500",
     "specifications": {
       "fuel": "Electric ⚡",
-      "engine": "All Electric 114 kWh Battery",
+      "engine": "Electric 114 kWh Battery",
       "horsepower": "402 hp",
-      "transmission": "Single-speed automatic",
-      "drivetrain": "Dual-motor all-wheel drive (AWD)",
+      "transmission": "Single speed automatic",
+      "drivetrain": "Dual motor all wheel drive (AWD)",
       "colors": ["🔵", "🔴", "⚫", "⚪"]
+    }
+  },
+  {
+    "name": "Mercedes Benz GLB AMG",
+    "price": 250,
+    "image": "/CarImages/GLB.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0L Inline 4 Turbocharged",
+      "horsepower": "302 hp",
+      "transmission": "8 speed AMG SPEEDSHIFT DCT automatic",
+      "drivetrain": "4MATIC all wheel drive",
+      "colors": ["⚪", "⚫", "🟤"]
+    }
+  },
+  {
+    "name": "Toyota Camry LE",
+    "price": 285,
+    "image": "/CarImages/camry.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.5L 4 Cylinder",
+      "horsepower": "203 hp",
+      "transmission": "8 speed automatic",
+      "drivetrain": "Front wheel drive (FWD)",
+      "colors": ["⚪", "⚫", "🔵"]
+    }
+  },
+  {
+    "name": "Mercedes Benz CLA AMG",
+    "price": 520,
+    "image": "/CarImages/cla.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0L Inline 4 Turbocharged",
+      "horsepower": "382 hp",
+      "transmission": "8 speed AMG SPEEDSHIFT DCT automatic",
+      "drivetrain": "AMG Performance 4MATIC+ all wheel drive",
+      "colors": ["🔴", "⚪", "⚫", "🔵"]
+    }
+  },
+  {
+    "name": "Lexus GX 460",
+    "price": 120,
+    "image": "/CarImages/GX.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.6L V8",
+      "horsepower": "301 hp",
+      "transmission": "6 speed automatic",
+      "drivetrain": "Full-time 4 wheel drive (4WD)",
+      "colors": ["⚪", "⚫"]
+    }
+  },
+  {
+    "name": "Lexus ES 300",
+    "price": 80,
+    "image": "/CarImages/ES.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.5L V6",
+      "horsepower": "302 hp",
+      "transmission": "8 speed automatic",
+      "drivetrain": "Front wheel drive (FWD)",
+      "colors": ["⚪", "⚫", "🔵"]
+    }
+  },
+  {
+    "name": "Lexus RX 350",
+    "price": 90,
+    "image": "/CarImages/RX.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.5L V6",
+      "horsepower": "295 hp",
+      "transmission": "8 speed automatic",
+      "drivetrain": "all wheel drive (AWD)",
+      "colors": ["⚪", "⚫", "🟤"]
     }
   }
 ]
