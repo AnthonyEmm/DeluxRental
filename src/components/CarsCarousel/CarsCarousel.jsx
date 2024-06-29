@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 import Avantador from "../../assets/LamborghiniA_Slide.png";
 import Bentayga from "../../assets/Bentayga_Slide.png";
 import Purosangue from "../../assets/Purosangue_Slide.png";
-import Urus from "../../assets/Urus1.png";
+import Urus from "../../assets/Urus_Slide.png";
 import G63AMG from "../../assets/g63_Slide.png";
 import Taycan from "../../assets/PTaycan_Slide.png";
 import AMG63 from "../../assets/GLE_Slide.png";
