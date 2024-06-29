@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Modal from "../../components/CarLineModal/CarLineModal";
 import { HashLink as Link } from "react-router-hash-link";
+import { IoIosCloseCircleOutline } from "react-icons/io";
 
 const Cars = () => {
   const [carData, setCarData] = useState([]);
@@ -110,9 +111,9 @@ const Cars = () => {
               type="button"
               onClick={clearSearch}
               className="absolute right-2 top-1/2 transform -translate-y-1/2 
-              text-gray-400 hover:text-black bg-gray-300 px-2"
+              hover:text-primary dark:text-gray-400 dark:hover:text-primary"
             >
-              x
+              <IoIosCloseCircleOutline size={35} />
             </button>
           )}
         </div>
@@ -127,13 +128,16 @@ const Cars = () => {
                 value={filters.priceRange}
                 onChange={handleFilterChange}
                 className="w-full p-2 border border-gray-300 dark:border-gray-300 rounded 
-                text-gray-400 outline-none font-serif"
+                text-gray-400 outline-none font-serif bg-white"
               >
                 <option value="">Filter by Price €</option>
                 <option value="0-500">€0 - €500</option>
                 <option value="500-1000">€500 - €1000</option>
                 <option value="1000-1500">€1000 - €1500</option>
                 <option value="1500-2000">€1500 - €2000</option>
+                <option value="2500-3000">€2500 - €3000</option>
+                <option value="3500-4000">€3500 - €4000</option>
+                <option value="4500-5000">€4500 - €5000</option>
               </select>
             </div>
             {[
@@ -157,10 +161,10 @@ const Cars = () => {
                     type="button"
                     onClick={() => clearFilter(key)}
                     className="absolute right-2 top-1/2 transform -translate-y-1/2 
-                    text-gray-400 hover:text-black bg-gray-300 
+                    text-gray-400 hover:text-gray-500 
                     px-2"
                   >
-                    x
+                    <IoIosCloseCircleOutline size={25} />
                   </button>
                 )}
               </div>

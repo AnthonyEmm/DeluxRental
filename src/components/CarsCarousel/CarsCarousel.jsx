@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { HashLink as Link } from "react-router-hash-link";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -9,7 +10,8 @@ import Urus from "../../assets/Urus_Slide.png";
 import G63AMG from "../../assets/g63_Slide.png";
 import Taycan from "../../assets/PTaycan_Slide.png";
 import AMG63 from "../../assets/GLE_Slide.png";
-import { HashLink as Link } from "react-router-hash-link";
+import Cruiser from "../../assets/land-cruiser.png";
+import PTaycan from "../../assets/Taycan.png";
 
 const CarCarousel = () => {
   const [hoveredSlide, setHoveredSlide] = useState(null);
@@ -50,6 +52,8 @@ const CarCarousel = () => {
     { id: 5, name: "Porsche Taycan", image: Taycan },
     { id: 6, name: "Lamborghini Avantador", image: Avantador },
     { id: 7, name: "Mercedes Benz G63 AMG", image: G63AMG },
+    { id: 8, name: "Land Cruiser", image: Cruiser },
+    { id: 8, name: "Porsche Taycan", image: PTaycan },
   ];
 
   const imageStyle = {

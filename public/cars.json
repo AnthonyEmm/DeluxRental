@@ -122,7 +122,7 @@
       "horsepower": "402 hp",
       "transmission": "Single speed automatic",
       "drivetrain": "All Wheel Drive",
-      "colors": ["⚫", "🔴", "🟤", "⚪"]
+      "colors": ["⚫", "🔴", "🟤", "⚪", "🔵"]
     }
   },
   {
@@ -463,7 +463,7 @@
   },
   {
     "name": "Lexus GX 460",
-    "price": 120,
+    "price": 420,
     "image": "/CarImages/GX.png",
     "aosDelay": "0",
     "specifications": {
@@ -477,7 +477,7 @@
   },
   {
     "name": "Lexus ES 300",
-    "price": 80,
+    "price": 280,
     "image": "/CarImages/ES.png",
     "aosDelay": "300",
     "specifications": {
@@ -491,7 +491,7 @@
   },
   {
     "name": "Lexus RX 350",
-    "price": 90,
+    "price": 290,
     "image": "/CarImages/RX.png",
     "aosDelay": "500",
     "specifications": {
@@ -501,6 +501,48 @@
       "transmission": "8 speed automatic",
       "drivetrain": "all wheel drive (AWD)",
       "colors": ["⚪", "⚫", "🟤"]
+    }
+  },
+  {
+    "name": "Tesla Model 3",
+    "price": 195,
+    "image": "/CarImages/Model3.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "Battery: Lithium-ion 82 kWh",
+      "horsepower": "450 hp",
+      "transmission": "Single Speed Fixed Gear Transmission",
+      "drivetrain": "Dual Motor All Wheel Drive (AWD)",
+      "colors": ["⚪", "⚫", "🟤", "🔴"]
+    }
+  },
+  {
+    "name": "Tesla Model X",
+    "price": 499,
+    "image": "/CarImages/Model_X.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "Battery: Lithium-ion 100 kWh",
+      "horsepower": "670 hp",
+      "transmission": "Single Speed Fixed Gear Transmission",
+      "drivetrain": "Tri Motor All Wheel Drive",
+      "colors": ["⚪", "⚫", "🔴"]
+    }
+  },
+  {
+    "name": "Tesla Model Y",
+    "price": 199,
+    "image": "/CarImages/Model-Y.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "Battery: Lithium-ion 75 kWh",
+      "horsepower": "456 hp",
+      "transmission": "Single Speed Fixed Gear Transmission",
+      "drivetrain": "Dual Motor All Wheel Drive (AWD)",
+      "colors": ["⚪", "⚫", "🔴"]
     }
   }
 ]
