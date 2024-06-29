@@ -12,7 +12,6 @@ Welcome to the &copy;DeluxRental project! This is a luxury car rental service ap
   - [Running the Project](#running-the-project)
   - [Dependencies](#dependencies)
   - [Project Structure](#project-structure)
-  - [License](#license)
 
 ## Project Overview
 
