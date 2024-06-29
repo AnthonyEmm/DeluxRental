@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Lamborghini Avantador",
+    "price": 1200,
+    "image": "/CarImages/Avant.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.5L V12",
+      "horsepower": "769 hp (Aventador LP 780-4 Ultimae)",
+      "transmission": "7-speed ISR (Independent Shifting Rod) automated manual",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["🟡", "⚫", "🔴", "⚪"]
+    }
+  },
+  {
+    "name": "Mercedes Benz G63 AMG",
+    "price": 800,
+    "image": "/CarImages/G63.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0L V8 Biturbo",
+      "horsepower": "577 hp",
+      "transmission": "AMG SPEEDSHIFT TCT 9-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "⚪"]
+    }
+  },
+  {
+    "name": "Ferrari Roma",
+    "price": 1495,
+    "image": "/CarImages/FerrariRoma.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.9L V8 twin-turbocharged",
+      "horsepower": "612 hp",
+      "transmission": "8-speed dual-clutch automatic",
+      "drivetrain": "Rear-Wheel Drive (RWD)",
+      "colors": ["⚫", "🔴", "⚪"]
+    }
+  },
+  {
+    "name": "Audi SQ8",
+    "price": 399,
+    "image": "/CarImages/audi_sq8.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0L V8",
+      "horsepower": "500 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "🔴", "⚪"]
+    }
+  },
+  {
+    "name": "Porsche Cayenne",
+    "price": 355,
+    "image": "/CarImages/Cayenne.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.0L V6",
+      "horsepower": "335 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚪", "⚫"]
+    }
+  },
+  {
+    "name": "Lamborghini Urus",
+    "price": 1000,
+    "image": "/CarImages/Urus1.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0L V8 twin-turbocharged",
+      "horsepower": "657 hp (Urus S and Urus Performante)",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-Wheel Drive (AWD)",
+      "colors": ["⚪", "⚫", "🔵"]
+    }
+  },
+  {
+    "name": "BMW 3-Series",
+    "price": 180,
+    "image": "/CarImages/BMW_3.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0L I4",
+      "horsepower": "255 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "Rear-Wheel Drive",
+      "colors": ["⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "BMW X6 xDrive40i",
+    "price": 510,
+    "image": "/CarImages/X6.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.0L inline-6 turbocharged with mild hybrid technology",
+      "horsepower": "375 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-Wheel Drive (AWD)",
+      "colors": ["⚫", "⚪", "🔴"]
+    }
+  },
+  {
+    "name": "Porsche Taycan",
+    "price": 499,
+    "image": "/CarImages/Porsche-Taycan.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "Performance Battery Plus 93.4 kWh",
+      "horsepower": "402 hp",
+      "transmission": "1-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "🔴", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Mercedes-Benz GLC-Class",
+    "price": 400,
+    "image": "/CarImages/GLC.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0L I4",
+      "horsepower": "255 hp",
+      "transmission": "9-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Audi A5",
+    "price": 220,
+    "image": "/CarImages/A5.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0L I4",
+      "horsepower": "261 hp",
+      "transmission": "7-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Genesis GV70",
+    "price": 450,
+    "image": "/CarImages/Genesis.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.5L I4",
+      "horsepower": "300 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["🔴", "⚪", "⚫"]
+    }
+  },
+  {
+    "name": "Mercedes-Benz S-Class",
+    "price": 520,
+    "image": "/CarImages/S-Class2.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.0L I6",
+      "horsepower": "429 hp",
+      "transmission": "9-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "⚪"]
+    }
+  },
+  {
+    "name": "Maserati Ghibli Modena",
+    "price": 300,
+    "image": "/CarImages/Ghibli.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.0L V6 twin-turbo",
+      "horsepower": "424 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "Multiple drive modes including Sport and Corsa",
+      "colors": ["⚫", "⚪", "🔴"]
+    }
+  },
+  {
+    "name": "Chevrolet Camaro ZL1",
+    "price": 440,
+    "image": "/CarImages/Chevy_Camaro.webp",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.2L V8",
+      "horsepower": "650 hp",
+      "transmission": "6-speed manual",
+      "drivetrain": "Rear-Wheel Drive",
+      "colors": ["⚫", "⚪", "🔴"]
+    }
+  },
+  {
+    "name": "Maserati GranTurismo Folgore",
+    "price": 549,
+    "image": "/CarImages/Maser.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "All-electric powertrain",
+      "horsepower": "751 hp",
+      "transmission": "single-speed automatic",
+      "drivetrain": "All-Wheel Drive",
+      "colors": ["⚫", "🟤", "⚪", "🔴"]
+    }
+  },
+  {
+    "name": "Mercedes Benz GLE 63 AMG",
+    "price": 420,
+    "image": "/CarImages/GLE.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0-liter V8 Biturbo with EQ Boost",
+      "horsepower": "603 hp",
+      "transmission": "9-speed automatic",
+      "drivetrain": "AMG all-wheel drive (AWD)",
+      "colors": ["⚫", "⚪", "🔴"]
+    }
+  },
+  {
+    "name": "Ferrari F8 Turbo",
+    "price": 1120,
+    "image": "/CarImages/Ferrari_F8.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.9-liter twin-turbocharged V8",
+      "horsepower": "710 hp",
+      "transmission": "7-speed dual-clutch automatic",
+      "drivetrain": "Rear-wheel drive (RWD)",
+      "colors": ["🟡", "⚫", "🔴", "⚪"]
+    }
+  },
+  {
+    "name": "BMW X1",
+    "price": 175,
+    "image": "/CarImages/X1.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0L I4 turbocharged",
+      "horsepower": "241 hp",
+      "transmission": "7-speed dual-clutch automatic",
+      "drivetrain": "All-Wheel Drive (xDrive)",
+      "colors": ["⚫", "⚪"]
+    }
+  },
+  {
+    "name": "Hyundai Palisade",
+    "price": 189,
+    "image": "/CarImages/Palisade.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.8L V6",
+      "horsepower": "291 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "Front-Wheel Drive (FWD) or optional All-Wheel Drive (AWD)",
+      "colors": ["⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Mercedes Benz GLA 45 AMG",
+    "price": 549,
+    "image": "/CarImages/GLA.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "2.0-liter inline-4 turbocharged",
+      "horsepower": "221 hp",
+      "transmission": "8-speed AMG SPEEDSHIFT DCT dual-clutch automatic",
+      "drivetrain": "All-Wheel Drive (AWD)",
+      "colors": ["⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Bentley Bentayga S",
+    "price": 600,
+    "image": "/CarImages/Bentayga_S.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0-liter V8",
+      "horsepower": "542 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All-wheel drive (AWD)",
+      "colors": ["🟢", "⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Bentley Continental GT",
+    "price": 700,
+    "image": "/CarImages/bentley_continental.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0-liter V8 or 6.0-liter W12 Twin-turbocharged",
+      "horsepower": "V8: 542 hp | W12: 626 hp",
+      "transmission": "8-speed dual-clutch automatic",
+      "drivetrain": "All-wheel drive (AWD)",
+      "colors": ["🔴", "⚫", "🟤", "⚪"]
+    }
+  },
+  {
+    "name": "Toyota Land Cruiser",
+    "price": 765,
+    "image": "/CarImages/Land-Cruiser.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.5L V6 twin-turbo or 4.0L V6",
+      "horsepower": "409 hp",
+      "transmission": "10-speed automatic",
+      "drivetrain": "4WD (Four-Wheel Drive)",
+      "colors": ["⚫", "⚪"]
+    }
+  },
+  {
+    "name": "Mercedes Benz GT 43 AMG",
+    "price": 399,
+    "image": "/CarImages/GT43.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.0-liter inline-6 turbocharged",
+      "horsepower": "362 hp + EQ Boost power",
+      "transmission": "9-speed automatic",
+      "drivetrain": "4MATIC+ all-wheel drive (AWD)",
+      "colors": ["🔴", "⚫", "🔵", "⚪"]
+    }
+  },
+  {
+    "name": "BMW XM",
+    "price": 1130,
+    "image": "/CarImages/XM.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline and electric power ⛽ ⚡",
+      "engine": "4.4-liter Twin-turbocharged V8 and electric motor",
+      "horsepower": "644 hp",
+      "transmission": "8-speed automatic transmission",
+      "drivetrain": "All-wheel drive (AWD)",
+      "colors": ["🔴", "⚫", "⚪"]
+    }
+  },
+  {
+    "name": "Mercedes Benz E-Class",
+    "price": 235,
+    "image": "/CarImages/EClass.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.0L inline-6 turbo with mild hybrid system",
+      "horsepower": "375 hp",
+      "transmission": "9-speed automatic transmission",
+      "drivetrain": "All-wheel drive (AWD)",
+      "colors": ["🔴", "⚫", "⚪", "🔵"]
+    }
+  },
+  {
+    "name": "Ferrari Purosangue",
+    "price": 3600,
+    "image": "/CarImages/Purosangue.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.5-liter naturally aspirated V12",
+      "horsepower": "715 hp",
+      "transmission": "8-speed dual-clutch automatic",
+      "drivetrain": "All-wheel drive (AWD) with rear-biased torque distribution",
+      "colors": ["⚫", "🟡", "🔴", "⚪"]
+    }
+  },
+  {
+    "name": "Aston Martin",
+    "price": 1345,
+    "image": "/CarImages/Aston_Martin.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "4.0-liter twin-turbocharged V8",
+      "horsepower": "503 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "Rear-wheel drive (RWD)",
+      "colors": ["🔴", "⚫", "🟡", "⚪"]
+    }
+  },
+  {
+    "name": "Audi Q8 e-tron",
+    "price": 680,
+    "image": "/CarImages/e-tron.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "All Electric 114 kWh Battery",
+      "horsepower": "402 hp",
+      "transmission": "Single-speed automatic",
+      "drivetrain": "Dual-motor all-wheel drive (AWD)",
+      "colors": ["🔵", "🔴", "⚫", "⚪"]
+    }
+  }
+]
