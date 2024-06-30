@@ -2,7 +2,7 @@
   {
     "name": "Lamborghini Aventador",
     "price": 1200,
-    "image": "/CarImages/Avant.png",
+    "image": "/CarImages/Lambo_A.png",
     "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
