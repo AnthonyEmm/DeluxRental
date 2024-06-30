@@ -126,7 +126,7 @@
     }
   },
   {
-    "name": "Mercedes-Benz GLC-Class",
+    "name": "Mercedes Benz GLC-Class",
     "price": 400,
     "image": "/CarImages/GLC.png",
     "aosDelay": "0",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "name": "Mercedes-Benz S-Class",
+    "name": "Mercedes Benz S-Class",
     "price": 520,
     "image": "/CarImages/S-Class2.png",
     "aosDelay": "0",
