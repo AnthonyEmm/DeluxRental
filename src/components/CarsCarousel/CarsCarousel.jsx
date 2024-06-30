@@ -13,6 +13,7 @@ import AMG63 from "../../assets/GLE_AMG.png";
 import Cruiser from "../../assets/LandC.png";
 import SClass from "../../assets/Merc_S.png";
 import Tesla from "../../assets/Tesla-X.png";
+import GMC from "../../assets/GMC.png";
 
 const CarCarousel = () => {
   const [hoveredSlide, setHoveredSlide] = useState(null);
@@ -54,8 +55,9 @@ const CarCarousel = () => {
     { id: 6, name: "Ferrari Purosangue", image: Purosangue },
     { id: 7, name: "Lamborghini Aventador", image: Aventador },
     { id: 8, name: "Land Cruiser", image: Cruiser },
-    { id: 9, name: "Mercedes S Class", image: SClass },
-    { id: 10, name: "Lamborghini Urus", image: Urus },
+    { id: 9, name: "GMC Sierra 1500", image: GMC },
+    { id: 10, name: "Mercedes S Class", image: SClass },
+    { id: 11, name: "Lamborghini Urus", image: Urus },
   ];
 
   const imageStyle = {

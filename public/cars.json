@@ -126,7 +126,7 @@
     }
   },
   {
-    "name": "Mercedes Benz GLC-Class",
+    "name": "Mercedes Benz GLC",
     "price": 400,
     "image": "/CarImages/GLC.png",
     "aosDelay": "0",
@@ -543,6 +543,48 @@
       "transmission": "Single Speed Fixed Gear Transmission",
       "drivetrain": "Dual Motor All Wheel Drive (AWD)",
       "colors": ["⚪", "⚫", "🔴"]
+    }
+  },
+  {
+    "name": "Ford F-150 Raptor",
+    "price": 370,
+    "image": "/CarImages/Raptor.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.5L V6 EcoBoost",
+      "horsepower": "450 hp",
+      "transmission": "10 speed automatic",
+      "drivetrain": "Four wheel drive (4WD)",
+      "colors": ["⚪", "⚫", "🔴"]
+    }
+  },
+  {
+    "name": "GMC Sierra 1500",
+    "price": 350,
+    "image": "/CarImages/GMC_Sierra.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.2L V8",
+      "horsepower": "420 hp",
+      "transmission": "10 speed automatic",
+      "drivetrain": "Four wheel drive (4WD)",
+      "colors": ["⚪", "⚫", "🔴"]
+    }
+  },
+  {
+    "name": "Toyota Tundra i-FORCE MAX",
+    "price": 320,
+    "image": "/CarImages/T-Tundra.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "3.5L Twin Turbo V6 Hybrid",
+      "horsepower": "437 hp",
+      "transmission": "10 speed automatic",
+      "drivetrain": "Four wheel drive (4WD)",
+      "colors": ["🔵", "⚪", "⚫", "🔴"]
     }
   }
 ]
