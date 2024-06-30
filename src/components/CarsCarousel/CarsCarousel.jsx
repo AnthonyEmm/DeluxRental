@@ -3,15 +3,15 @@ import { HashLink as Link } from "react-router-hash-link";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Avantador from "../../assets/LamborghiniA_Slide.png";
-import Bentayga from "../../assets/Bentayga_Slide.png";
-import Purosangue from "../../assets/Purosangue_Slide.png";
-import Urus from "../../assets/Urus_Slide.png";
-import G63AMG from "../../assets/g63_Slide.png";
-import Taycan from "../../assets/PTaycan_Slide.png";
-import AMG63 from "../../assets/GLE_Slide.png";
-import Cruiser from "../../assets/land-cruiser.png";
-import PTaycan from "../../assets/Taycan.png";
+import Aventador from "../../assets/lamborghini-aventador.png";
+import Bentayga from "../../assets/Bentayga-S.png";
+import Purosangue from "../../assets/Ferrari_purosangue.png";
+import Urus from "../../assets/Lamborghini-Urus.png";
+import G63AMG from "../../assets/Merc_G63.png";
+import Taycan from "../../assets/porsche_taycan.png";
+import AMG63 from "../../assets/GLE_AMG.png";
+import Cruiser from "../../assets/LandC.png";
+import SClass from "../../assets/Merc_S.png";
 
 const CarCarousel = () => {
   const [hoveredSlide, setHoveredSlide] = useState(null);
@@ -50,10 +50,10 @@ const CarCarousel = () => {
     { id: 3, name: "Bentley Bentayga S", image: Bentayga },
     { id: 4, name: "Merceded Benz GLE 63 AMG", image: AMG63 },
     { id: 5, name: "Porsche Taycan", image: Taycan },
-    { id: 6, name: "Lamborghini Avantador", image: Avantador },
+    { id: 6, name: "Lamborghini Aventador", image: Aventador },
     { id: 7, name: "Mercedes Benz G63 AMG", image: G63AMG },
     { id: 8, name: "Land Cruiser", image: Cruiser },
-    { id: 8, name: "Porsche Taycan", image: PTaycan },
+    { id: 9, name: "Mercedes S Class", image: SClass },
   ];
 
   const imageStyle = {
