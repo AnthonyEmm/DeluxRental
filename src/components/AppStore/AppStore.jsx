@@ -35,7 +35,7 @@ const AppStore = () => {
               Enhance your journey with our user-friendly app
             </p>
             <div
-              data-aos="fade-up"
+              data-aos="fade-down"
               className="flex flex-wrap justify-center items-center gap-4"
             >
               <a href="https://www.apple.com/app-store/" target="_blank">
