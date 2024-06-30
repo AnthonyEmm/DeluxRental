@@ -12,6 +12,7 @@ import Taycan from "../../assets/porsche_taycan.png";
 import AMG63 from "../../assets/GLE_AMG.png";
 import Cruiser from "../../assets/LandC.png";
 import SClass from "../../assets/Merc_S.png";
+import Tesla from "../../assets/Tesla-X.png";
 
 const CarCarousel = () => {
   const [hoveredSlide, setHoveredSlide] = useState(null);
@@ -45,15 +46,16 @@ const CarCarousel = () => {
   };
 
   const cars = [
-    { id: 1, name: "Lamborghini Urus", image: Urus },
-    { id: 2, name: "Ferrari Purosangue", image: Purosangue },
-    { id: 3, name: "Bentley Bentayga S", image: Bentayga },
-    { id: 4, name: "Merceded Benz GLE 63 AMG", image: AMG63 },
-    { id: 5, name: "Porsche Taycan", image: Taycan },
-    { id: 6, name: "Lamborghini Aventador", image: Aventador },
-    { id: 7, name: "Mercedes Benz G63 AMG", image: G63AMG },
+    { id: 1, name: "Bentley Bentayga S", image: Bentayga },
+    { id: 2, name: "Merceded Benz GLE 63 AMG", image: AMG63 },
+    { id: 3, name: "Tesla Model X", image: Tesla },
+    { id: 4, name: "Porsche Taycan", image: Taycan },
+    { id: 5, name: "Mercedes Benz G63 AMG", image: G63AMG },
+    { id: 6, name: "Ferrari Purosangue", image: Purosangue },
+    { id: 7, name: "Lamborghini Aventador", image: Aventador },
     { id: 8, name: "Land Cruiser", image: Cruiser },
     { id: 9, name: "Mercedes S Class", image: SClass },
+    { id: 10, name: "Lamborghini Urus", image: Urus },
   ];
 
   const imageStyle = {

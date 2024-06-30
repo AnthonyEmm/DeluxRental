@@ -198,7 +198,7 @@
   {
     "name": "Chevrolet Camaro ZL1",
     "price": 440,
-    "image": "/CarImages/Chevy_Camaro.webp",
+    "image": "/CarImages/Camaro-Z1.png",
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
@@ -210,24 +210,10 @@
     }
   },
   {
-    "name": "Maserati GranTurismo Folgore",
-    "price": 549,
-    "image": "/CarImages/Maser.png",
-    "aosDelay": "0",
-    "specifications": {
-      "fuel": "Electric ⚡",
-      "engine": "Electric powertrain",
-      "horsepower": "751 hp",
-      "transmission": "Single speed automatic",
-      "drivetrain": "All Wheel Drive",
-      "colors": ["⚫", "🟤", "⚪", "🔴"]
-    }
-  },
-  {
     "name": "Mercedes Benz GLE 63 AMG",
     "price": 420,
     "image": "/CarImages/GLE.png",
-    "aosDelay": "300",
+    "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "4.0-liter V8 Biturbo with EQ Boost",
@@ -238,9 +224,23 @@
     }
   },
   {
+    "name": "Maserati GranTurismo Folgore",
+    "price": 549,
+    "image": "/CarImages/Maser.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Electric ⚡",
+      "engine": "Electric powertrain",
+      "horsepower": "751 hp",
+      "transmission": "Single speed automatic",
+      "drivetrain": "All Wheel Drive",
+      "colors": ["⚫", "🟤", "⚪", "🔴"]
+    }
+  },
+  {
     "name": "Ferrari F8 Turbo",
     "price": 1120,
-    "image": "/CarImages/Ferrari_F8.png",
+    "image": "/CarImages/Ferrari-F8.png",
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
@@ -310,7 +310,7 @@
   {
     "name": "Bentley Continental GT",
     "price": 700,
-    "image": "/CarImages/bentley_continental.png",
+    "image": "/CarImages/Continental.png",
     "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
