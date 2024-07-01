@@ -238,9 +238,9 @@
     }
   },
   {
-    "name": "Ferrari F8 Turbo",
+    "name": "Ferrari F8 Spider Turbo",
     "price": 1120,
-    "image": "/CarImages/Ferrari-F8.png",
+    "image": "/CarImages/Ferrari-F8-Spider.png",
     "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
@@ -392,10 +392,24 @@
     }
   },
   {
-    "name": "Aston Martin",
+    "name": "Rolls-Royce Ghost",
+    "price": 1299,
+    "image": "/CarImages/Ghost.png",
+    "aosDelay": "300",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.75L V12 twin turbocharged",
+      "horsepower": "563 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All wheel drive (AWD)",
+      "colors": ["⚪", "⚫", "🔵"]
+    }
+  },
+  {
+    "name": "Aston Martin Vanquish",
     "price": 1345,
     "image": "/CarImages/Aston_Martin.png",
-    "aosDelay": "300",
+    "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "4.0 liter twin turbocharged V8",
@@ -406,10 +420,24 @@
     }
   },
   {
+    "name": "Rolls Royce Phantom 2",
+    "price": 1900,
+    "image": "/CarImages/Phantom_2.png",
+    "aosDelay": "0",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.75L V12 twin turbocharged",
+      "horsepower": "563 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "Rear Wheel Drive (RWD)",
+      "colors": ["⚪", "⚫"]
+    }
+  },
+  {
     "name": "Audi Q8 e-tron",
     "price": 680,
     "image": "/CarImages/e-tron.png",
-    "aosDelay": "500",
+    "aosDelay": "300",
     "specifications": {
       "fuel": "Electric ⚡",
       "engine": "Electric 114 kWh Battery",
@@ -423,7 +451,7 @@
     "name": "Mercedes Benz GLB AMG",
     "price": 250,
     "image": "/CarImages/GLB.png",
-    "aosDelay": "0",
+    "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.0L Inline 4 Turbocharged",
@@ -437,7 +465,7 @@
     "name": "Toyota Camry LE",
     "price": 285,
     "image": "/CarImages/camry.png",
-    "aosDelay": "300",
+    "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.5L 4 Cylinder",
@@ -451,7 +479,7 @@
     "name": "Mercedes Benz CLA AMG",
     "price": 520,
     "image": "/CarImages/cla.png",
-    "aosDelay": "500",
+    "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "2.0L Inline 4 Turbocharged",
@@ -465,7 +493,7 @@
     "name": "Lexus GX 460",
     "price": 420,
     "image": "/CarImages/GX.png",
-    "aosDelay": "0",
+    "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "4.6L V8",
@@ -479,7 +507,7 @@
     "name": "Lexus ES 300",
     "price": 280,
     "image": "/CarImages/ES.png",
-    "aosDelay": "300",
+    "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.5L V6",
@@ -493,7 +521,7 @@
     "name": "Lexus RX 350",
     "price": 290,
     "image": "/CarImages/RX.png",
-    "aosDelay": "500",
+    "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.5L V6",
@@ -507,7 +535,7 @@
     "name": "Tesla Model 3",
     "price": 195,
     "image": "/CarImages/Model3.png",
-    "aosDelay": "0",
+    "aosDelay": "500",
     "specifications": {
       "fuel": "Electric ⚡",
       "engine": "Battery: Lithium-ion 82 kWh",
@@ -520,8 +548,8 @@
   {
     "name": "Tesla Model X",
     "price": 499,
-    "image": "/CarImages/Model_X.png",
-    "aosDelay": "300",
+    "image": "/CarImages/Tesla_Model_X.png",
+    "aosDelay": "0",
     "specifications": {
       "fuel": "Electric ⚡",
       "engine": "Battery: Lithium-ion 100 kWh",
@@ -535,7 +563,7 @@
     "name": "Tesla Model Y",
     "price": 199,
     "image": "/CarImages/Model-Y.png",
-    "aosDelay": "500",
+    "aosDelay": "300",
     "specifications": {
       "fuel": "Electric ⚡",
       "engine": "Battery: Lithium-ion 75 kWh",
@@ -549,7 +577,7 @@
     "name": "Ford F-150 Raptor",
     "price": 370,
     "image": "/CarImages/Raptor.png",
-    "aosDelay": "0",
+    "aosDelay": "500",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.5L V6 EcoBoost",
@@ -563,7 +591,7 @@
     "name": "GMC Sierra 1500",
     "price": 350,
     "image": "/CarImages/GMC_Sierra.png",
-    "aosDelay": "300",
+    "aosDelay": "0",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "6.2L V8",
@@ -577,13 +605,27 @@
     "name": "Toyota Tundra i-FORCE MAX",
     "price": 320,
     "image": "/CarImages/T-Tundra.png",
-    "aosDelay": "500",
+    "aosDelay": "300",
     "specifications": {
       "fuel": "Premium Gasoline ⛽",
       "engine": "3.5L Twin Turbo V6 Hybrid",
       "horsepower": "437 hp",
       "transmission": "10 speed automatic",
       "drivetrain": "Four wheel drive (4WD)",
+      "colors": ["🔵", "⚪", "⚫", "🔴"]
+    }
+  },
+  {
+    "name": "Rolls Royce Cullinan",
+    "price": 3400,
+    "image": "/CarImages/Rolls-Royce-Cullinan.png",
+    "aosDelay": "500",
+    "specifications": {
+      "fuel": "Premium Gasoline ⛽",
+      "engine": "6.75L V12 twin turbocharged",
+      "horsepower": "563 hp",
+      "transmission": "8-speed automatic",
+      "drivetrain": "All wheel drive (AWD)",
       "colors": ["🔵", "⚪", "⚫", "🔴"]
     }
   }
