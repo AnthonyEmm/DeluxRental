@@ -28,9 +28,12 @@ const FAQ = () => {
         </h2>
         <div className="space-y-4">
           {faqs.map((faq, index) => (
-            <div key={index} className="border rounded-lg">
+            <div
+              key={index}
+              className="rounded-lg border dark:border-gray-800 dark:shadow-lg"
+            >
               <button
-                className="w-full flex justify-between items-center p-4 text-left"
+                className="w-full flex justify-between items-center p-4 text-left shadow-lg dark:shadow-xl"
                 onClick={() => toggleFAQ(index)}
               >
                 <span className="text-lg font-medium font-serif">
