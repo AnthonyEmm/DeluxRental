@@ -35,7 +35,7 @@ const Services = () => {
     <section id="services" className="services">
       <div
         className="py-14 dark:bg-black dark:text-white sm:min-h-[600px] sm:grid 
-        sm:place-items-center min-h-screen"
+        sm:place-items-center min-h-screen bg-gray-100"
       >
         <div className="container max-w-screen-xl mt-16 mb-16">
           <div className="pb-12">

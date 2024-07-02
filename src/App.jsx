@@ -51,10 +51,10 @@ const App = () => {
           <Navbar theme={theme} setTheme={setTheme} />
           <Hero theme={theme} />
           <About />
+          <CarsCarousel />
           <Services />
           <Cars />
           <Testimonial />
-          <CarsCarousel />
           <AppStore />
           <Contact />
           <FAQ />

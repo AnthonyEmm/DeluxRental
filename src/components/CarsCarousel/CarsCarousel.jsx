@@ -92,7 +92,7 @@ const CarCarousel = () => {
 
   return (
     <div
-      className="container mx-auto bg-gray-100 dark:bg-dark py-8 px-8 pt-28 pb-28
+      className="container mx-auto bg-white dark:bg-dark py-8 px-8 pt-28 pb-28
      text-primary dark:text-white font-serif font-semibold mt-16 mb-16 min-h-[200px] relative"
     >
       <Slider {...settings}>
