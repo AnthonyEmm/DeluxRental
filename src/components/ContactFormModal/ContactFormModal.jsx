@@ -28,11 +28,12 @@ const ContactFormModal = ({ isVisible, onClose }) => {
     e.preventDefault();
     emailjs
       .sendForm(
-        import.meta.env.VITE_KEY_SERVICE_ID,
-        import.meta.env.VITE_KEY_TEMPLATE_ID,
+        import.meta.env.VITE_EMAILJS_SERVICE_ID,
+        import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
         form.current,
-        import.meta.env.VITE_KEY_USER_ID,
+        import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
       )
+
       .then(
         () => {
           console.log("Email sent!");
