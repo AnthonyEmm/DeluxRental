@@ -28,10 +28,10 @@ const ContactFormModal = ({ isVisible, onClose }) => {
     e.preventDefault();
     emailjs
       .sendForm(
-        import.meta.env.KEY_SERVICE_ID,
-        import.meta.env.KEY_TEMPLATE_ID,
+        import.meta.env.VITE_KEY_SERVICE_ID,
+        import.meta.env.VITE_KEY_TEMPLATE_ID,
         form.current,
-        import.meta.env.KEY_USER_ID,
+        import.meta.env.VITE_KEY_USER_ID,
       )
       .then(
         () => {
